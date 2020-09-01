@@ -1,0 +1,26 @@
+.VehiclesList{
+    background-color: rgb(241, 241, 241);
+}
+
+
+.VehiclesList h3{
+    margin: 0;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+.VehiclesList h3 span{
+    border-bottom: 1px solid rgb(167, 167, 167);
+    padding-bottom: 10px;
+}
+
+.Vehicles{
+    display: flex;
+    width: 90%;
+    margin: 2rem auto;
+    flex-wrap: wrap;
+    justify-content: center;
+}

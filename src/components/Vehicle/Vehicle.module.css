@@ -1,0 +1,30 @@
+.Vehicle{
+    margin: 1rem;
+    background-color: white;
+
+}
+
+.Vehicle p{
+    margin: 8px 0;
+    font-size: 0.9rem;
+}
+
+.Vehicle h5{
+    margin: 0;
+    border-radius: 150px;
+    background-color: #ccc;
+    padding: 5px;
+    text-align: center;
+    font-size: 1rem;
+    color: rgb(46, 46, 46);
+    margin: 5px 0;
+}
+
+.VehicleDescription{
+    padding: 10px;
+}
+
+.VehicleDescription h4{
+    font-size: 1.3rem;
+    margin: 14px 0;
+}
